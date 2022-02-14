@@ -11,3 +11,5 @@
 - Aula 04 - Funcionamento do git
 - Aula 05 - Objetos do git
 - Aula 06 - Chaves SSH e tokens
+
+Disclaimer: as anotações neste repositório são o meu entendimento do conteúdo das aulas. Caso haja erros nos conceitos, eles são de minha responsabilidade, não do instrutor do curso.
