@@ -1,5 +1,5 @@
 # DIO desafio Github
-Repositório básico para implementar os conceitos aprendidos no curso de Git/Github da DIO.
+Repositório básico para implementar os conceitos aprendidos no curso de Git/Github da [DIO](https://www.dio.me/).
 
 ### Orientações gerais
 Exercitar as funções básicas do Git/Github:
