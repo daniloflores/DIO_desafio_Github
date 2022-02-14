@@ -1,4 +1,10 @@
-# Conteúdo das aulas
+# Curso: Introdução ao Git e Github
+
+**Plataforma: [DIO](https://www.dio.me/)**
+
+**Instrutor: [Otávio Reis](https://br.linkedin.com/in/operkles)**
+
+### Conteúdo das aulas
 - Aula 01 - Git e sua importância
 - Aula 02 - Navegação no terminal de linha de comando
 - Aula 03 - Instalação do Git
